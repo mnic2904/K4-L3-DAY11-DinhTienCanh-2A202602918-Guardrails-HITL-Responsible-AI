@@ -28,6 +28,7 @@ _ALLOWED_DOMAINS = [
     "www.vinbank.com",
     "internal.vinbank.com",
     "gateway.vinbank.com",
+    "api.vinbank.example",
 ]
 
 # Patterns for sensitive data that must NOT leave the system
